@@ -1,0 +1,17 @@
+{
+    "name": "test/php-container",
+    "description": "try try",
+    "type": "library",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Andy",
+            "email": "jialin@ifreegroup.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "src"
+        }
+    }
+}
