@@ -7,6 +7,8 @@ Installation
 composer require jlynnlee/simple-php-container
 ~~~
 
-#####$test = new \Test\Container();
+~~~
+$test = new \Test\Container();
 //A::class 注入的类，['param1', 'param2'...] 注入类所需参数
-#####$class = $test::bind(A::class, ['param1', 'param2']);
+$class = $test::bind(A::class, ['param1', 'param2']);
+~~~
