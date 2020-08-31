@@ -2,7 +2,7 @@
 /**
  * 简单的依赖注入demo
  */
-namespace Test;
+namespace Demo;
 
 
 use Exception;

@@ -1,6 +1,6 @@
 {
     "name": "jlynnlee/simple-php-container",
-    "description": "try try",
+    "description": "Just a demo",
     "type": "library",
     "license": "Apache-2.0",
     "authors": [
@@ -11,7 +11,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "App\\": "src"
+            "Demo\\": "src"
         }
     }
 }
