@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e4fd3b0f-577f-43ed-a80b-1327de05728e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Container.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Container.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -75,8 +73,17 @@
       <workItem from="1597801090521" duration="1185000" />
       <workItem from="1598583433819" duration="10207000" />
       <workItem from="1598843630012" duration="7856000" />
-      <workItem from="1598862019287" duration="1171000" />
+      <workItem from="1598862019287" duration="1278000" />
+      <workItem from="1598863512773" duration="313000" />
     </task>
+    <task id="LOCAL-00001" summary="README">
+      <created>1598863266750</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598863266750</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,5 +101,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="README" />
+    <option name="LAST_COMMIT_MESSAGE" value="README" />
   </component>
 </project>

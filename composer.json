@@ -1,5 +1,5 @@
 {
-    "name": "test/php-container",
+    "name": "simple/php-container",
     "description": "try try",
     "type": "library",
     "license": "Apache-2.0",
