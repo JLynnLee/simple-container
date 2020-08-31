@@ -1,6 +1,6 @@
 <?php
 /**
- * 容器
+ * 简单的依赖注入demo
  */
 namespace Test;
 
