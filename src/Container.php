@@ -57,8 +57,10 @@ class Container {
                     $dependencies[] = $param->getDefaultValue();
                 } else {
                     //对应参数位置
-                    $dependencies[] = $vars[$param->getPosition()];
-                }
+                    if (isset($vars[$param->getPosition()])) {
+                        $dependencies[] = $vars[$param->getPosition()];
+                    }	 
+		}
             }
         }
 
